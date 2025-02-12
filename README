@@ -40,7 +40,7 @@ update the molesp env
 
 
 ESPs From QM Calcs Install
-==============
+==========================
  
 5. In order to produce ESPs from QM calcs, we need a bespoke .db file generated in 
 my code Chargecraft. Charge craft can be cloned here

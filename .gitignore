@@ -17,7 +17,7 @@ __pycache__/
 .vscode
 *.pyc
 *.db
-*.sdf
+# *.sdf
 *.mol
 *.mol2
 *.pdb
