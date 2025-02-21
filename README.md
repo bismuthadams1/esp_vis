@@ -57,6 +57,11 @@ There are two modes that you can use this visualizer:
 Running The Program with the Charge Models
 ==========================================
 
+To use charge models you must first follow the install instructions from this repo and install the ChargeAPI in this esp_vis environment:
+
+https://github.com/bismuthadams1/ChargeAPI
+
+
 For this mode, we need to go the 'esp_visualize_esp.py' file. Add your chosen .sdf file and then 
 run the code. A GUI will then be available at http://localhost:8000.
 

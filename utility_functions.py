@@ -53,5 +53,3 @@ def scan_toolkit_registry():
         print("could not load GNN nagl models")
 
 scan_toolkit_registry()
-
-def 
